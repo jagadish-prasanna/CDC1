@@ -1,0 +1,30 @@
+{
+  "name": "cdc",
+  "version": "1.0.0",
+  "description": "CDC is a node application through which healthcare workers and governement can collect a centralized data for on a particlar disese and report it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadish-prasanna/cdc.git"
+  },
+  "keywords": [
+    "cdc"
+  ],
+  "depedencies": {
+    "mongoose": "~4.4.2"
+  },
+  "author": "Jagadish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagadish-prasanna/cdc/issues"
+  },
+  "homepage": "https://github.com/jagadish-prasanna/cdc#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "mongoose": "^4.4.2",
+    "q": "^1.4.1"
+  }
+}
